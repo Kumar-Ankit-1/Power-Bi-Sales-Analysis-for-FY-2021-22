@@ -1,7 +1,7 @@
 # Power-Bi-Sales-Analysis-for-FY-2021-22
 
 
-### _Data Processing and Dashboard Visualization_
+### Data Processing and Dashboard Visualization
 
 
 ### _Data Processing_
